@@ -1,0 +1,9 @@
+bottom side of ruler is 35.4 - 3 = 32.4mm above ground
+bottom side of front axle is 25.4 - 14.2875 = 11.1125mm above ground
+top side of protrudy thing is 11.1125mm + 3/8" - (3/8"-8mm)/2 = 19.875mm above ground
+
+32.4mm - 19.875mm = 12.52500 mm
+
+1 1/8" - 19.050mm = 0.375 in = 3/8 in, -4.7625mm = 3/16" (top surface between bearing holders above bottom of axle)
+
+height of bottom to top surface between bearing holders needs to be less than 0.3125 in (3/16 < 0.3125, OK)
